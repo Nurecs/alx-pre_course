@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #! /bin / bash
 SCHOOL
+=======
+#! / bin / bash echo "school"
+>>>>>>> update_script
